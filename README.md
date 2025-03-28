@@ -1,3 +1,5 @@
-### Hey there! 👋
+### hi
 
-My name is Callum Burrows, and I am an Aussie teen that moved to Scotland in 2023. I love programming in C++, Java and Python. Have a great day! :)
+i am [redacted], i am [redacted] years old and i do your mother
+
+redacted information for prevention of leaking of personal information on websites such as doxbin
