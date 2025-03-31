@@ -1,5 +1,3 @@
-### hi
+### hello there
 
-i am [redacted], i am [redacted] years old and i do your mother
-
-redacted information for prevention of leaking of personal information on websites such as doxbin
+my name is Callum, i am a very strange person that sometimes does coding for fun.
